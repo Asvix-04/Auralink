@@ -1,6 +1,6 @@
 # AuraLink
 
-### Inclusive AI Conversations for the Visually and Hearing Impaired
+### Inclusive AI Conversations for the Visually and Hearing Impaired 
 
 AuraLink is an AI-powered conversational platform purposefully designed to empower **visually impaired**, **deaf**, **hard-of-hearing**, and **mute** individuals. While conventional AI tools cater to the general population, AuraLink focuses on making **accessible, intuitive, and human-like interactions possible for everyone**, regardless of communication ability.
 
