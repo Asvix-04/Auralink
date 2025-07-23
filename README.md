@@ -33,7 +33,7 @@ SignGPT enables users to **communicate with the AI using sign language**, and th
 * Optionally receive responses in text or audio
 * AI avatar customization (appearance, expression, personality)
 * Personality-driven interaction styles (formal, casual, humorous)
-* Themed character avatars inspired by fictional universes (e.g., superhero archetypes)
+* Themed character avatars inspired by fictional universes (ex: superhero archetypes)
 
 ---
 
