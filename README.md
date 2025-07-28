@@ -7,7 +7,7 @@ AuraLink is an AI-powered conversational platform purposefully designed to empow
 AuraLink consists of two integrated systems:
 
 * **SignGPT** – A sign-language-first conversational AI assistant for deaf and mute users
-* **VoiceGPT** – A voice-first conversational AI assistant for visually impaired and blind users
+* **VoiceGPT** – A voice-first conversational AI assistant for visually impaired and blind users  
 
 ---
 
